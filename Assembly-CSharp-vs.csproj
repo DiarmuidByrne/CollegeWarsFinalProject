@@ -74,7 +74,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.SharpZipLib">
- <HintPath>C:/Users/Diarmuid/Desktop/CollegeWars/CollegeWars/Assets/plugins/ICSharpCode.SharpZipLib.dll</HintPath>
+ <HintPath>C:/Users/Diarmuid/Desktop/CollegeWars/Assets/plugins/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

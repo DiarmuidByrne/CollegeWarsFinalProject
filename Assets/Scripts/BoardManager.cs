@@ -441,6 +441,9 @@ public class BoardManager : MonoBehaviour {
 	void hidePanels() {
 		p1Ready.SetActive (false);
 		p2Ready.SetActive (false);
+		quitPanel.GetComponent<CanvasGroup> ().alpha = 0;
+		quitPanel.GetComponent<CanvasGroup> ().blocksRaycasts = false;
+		quitPanel.GetComponent<CanvasGroup> ().interactable = false;
 		gameOverPanel.GetComponent<CanvasGroup> ().alpha = 0;
 		gameOverPanel.GetComponent<CanvasGroup> ().blocksRaycasts = false;
 		gameOverPanel.GetComponent<CanvasGroup> ().interactable = false;
